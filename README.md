@@ -1,4 +1,11 @@
-<h1 align="center">Hi there, I'm Trn.H 👋</h1>
+<p align="center">
+  <img align="left" src="[你的熊猫图片链接](https://raw.githubusercontent.com/Trn-Hsing/Trn-Hsing/main/iPanda%20WP1.png)" width="150" />
+  <br>
+  <b>Hi there, I'm Trn.H 👋</b>
+  <br>
+  Root in truth, sane in mind, connected in the net.
+</p>
+<br clear="left"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066CC&center=true&vCenter=true&width=435&lines=Silicon+doesn't+understand+carbon's+love;Root+in+truth,+connected+in+the+net;TreeRootNet+Founder" alt="Typing SVG" />
