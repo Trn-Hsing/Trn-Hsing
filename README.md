@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" src="https://raw.githubusercontent.com/Trn-Hsing/Trn-Hsing/main/iPanda%20WP1.png" width="150" />
+  <img align="left" src="https://raw.githubusercontent.com/Trn-Hsing/Trn-Hsing/main/iPanda_WP1.png" width="150" />
   <br>
   <b>Hi there, I'm Trn.H 👋</b>
   <br>
